@@ -1,0 +1,5 @@
+pandas
+requests
+tqdm
+mysql-connector-python
+python-dotenv

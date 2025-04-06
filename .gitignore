@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data exports and local files
+data/*.csv
+data/snapshots/
+*.sqlite
+*.db
+*.log
+
+# Optional: markdown exports or trail cache
+exported_md/
+trail_outputs/
